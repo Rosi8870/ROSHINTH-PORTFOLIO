@@ -11,3 +11,4 @@ HTML5: The backbone of the website's structure.
 CSS3: For styling and layout.
 JavaScript: For interactivity and dynamic behavior.
 Responsive Design: Built to be mobile-first and fully responsive using Flexbox and CSS Grid.
+git clone https://github.com/Rosi8870/ROSHINTH-PORTFOLIO.git
